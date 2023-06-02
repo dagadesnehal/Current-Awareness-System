@@ -8,6 +8,6 @@ The automation in project is a result of the daily changes of current affairs. T
 #Implementation
 For this project we have used the following :-
 
-Tkinter(python library) for GUI
-Matplotlib, pandas (python libraries) for visualization
-Beautiful Soup(python library for Data Scraping
+*Tkinter(python library) for GUI
+*Matplotlib, pandas (python libraries) for visualization
+*Beautiful Soup(python library for Data Scraping
